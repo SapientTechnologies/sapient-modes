@@ -2,6 +2,8 @@
 
 Nuxt.js/Typescript Theme switcher with active content module.
 
+[Preview here](https://codesandbox.io/s/sapienttechnologiessapient-modes-forked-n6vzb)
+
 ## Build Setup
 
 ```bash
